@@ -3,7 +3,8 @@ from interactions import *
 from print_text import *
 
 slow_print("Welcome to...", delay = 0.25, useStyle=dangerStyle)
-print_title("The Horror Manor")
+print_title("The Horror Manor Modified!")
+
 
 currentlocation = "entrance"
 
